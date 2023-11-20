@@ -15,7 +15,7 @@ func main() {
 
 	// ตัวแปรชนิด string
 	var name string
-	name = "John"
+	name = "surasak"
 	fmt.Println("Name:", name)
 
 	// ใช้ := สำหรับการประกาศและกำหนดค่าในทำเลทีฟ (implicit)
@@ -43,8 +43,8 @@ func main() {
 	// ตัวแปรชนิด map
 	person := map[string]interface{}{
 		"name":   "Alice",
-		"age":    30,
-		"height": 160.0,
+		"age":    25,
+		"height": 175.0,
 	}
 	fmt.Println("Person Map:", person)
 }
